@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/elricho/intervals-cli/releases/download/v0.1.0/iicu_0.1.0_windows_amd64.zip",
+            "bin": [
+                "iicu.exe"
+            ],
+            "hash": "874166d052688b5e55b41b334dcffe59fcf7751424f6678e41c77eb8ca6172c6"
+        },
+        "arm64": {
+            "url": "https://github.com/elricho/intervals-cli/releases/download/v0.1.0/iicu_0.1.0_windows_arm64.zip",
+            "bin": [
+                "iicu.exe"
+            ],
+            "hash": "51b1382954f9ac25070b7f19bb7ecbd94482797d92afb213420fc487c7a4549e"
+        }
+    },
+    "homepage": "https://github.com/elricho/intervals-cli",
+    "license": "MIT",
+    "description": "CLI for the intervals.icu training platform"
+}
